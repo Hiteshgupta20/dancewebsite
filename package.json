@@ -1,0 +1,22 @@
+{
+  "name": "dance-websitee",
+  "version": "1.0.0",
+  "description": "this is the website for popular dance academy",
+  "main": "app.js",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-redirect": "^1.2.2",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.11.10",
+    "pug": "^3.0.0",
+    "redirect": "^0.2.0",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hitesh",
+  "license": "ISC"
+}
